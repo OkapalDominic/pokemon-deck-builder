@@ -1,11 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import MainMenu from './components/MainMenu/MainMenu';
 
 function App() {
   return (
-    <div className="App">
+    <div className="w3-container w3-white">
       <MainMenu></MainMenu>
     </div>
   );

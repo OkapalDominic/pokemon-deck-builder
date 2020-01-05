@@ -1,0 +1,15 @@
+.container-height {
+    height: 100vh;
+}
+
+.content-width {
+    width: 60vw;
+}
+
+.tab-text-size {
+    font-size: 4vw;
+}
+
+.round-top-corners {
+    border-radius: 16px 16px 0 0;
+}
